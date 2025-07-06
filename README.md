@@ -1,4 +1,4 @@
-# Custom Two-Stage LLM Distillation
+# Custom Two-Stage LLM Distillation 
 
 This project introduces a custom two-step method for distilling large language models (LLMs) designed to optimize memory usage. The method involves saving teacher model logits in the first stage, enabling users with limited VRAM to perform distillation efficiently in the second stage.
 
