@@ -37,3 +37,4 @@ Distillation is a widely-used technique to transfer knowledge from a large teach
    ```bash
    git clone https://github.com/Harshvardhan-To1/CustomDistillation.git
    cd CustomDistillation
+   pip install -r requirements.txt
